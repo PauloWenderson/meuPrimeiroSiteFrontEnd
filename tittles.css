@@ -121,3 +121,40 @@ h4 {
     width: 300px;
     border: 1px solid red;
 }
+
+.underline-zero {
+    text-decoration: none;
+    color: #444;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.lower {
+    text-transform: lowercase;
+}
+
+.letter-spacing {
+    letter-spacing: 5px;
+}
+
+.serif {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sans-serif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+.fantasy {
+    font-family: fantasy;
+}
