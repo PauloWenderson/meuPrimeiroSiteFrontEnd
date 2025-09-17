@@ -111,3 +111,13 @@ h4 {
     width: 200px;
     height: 400px;
 }
+
+.text-align {
+    text-align: center;
+}
+
+.conteiner-center {
+    text-align: center;
+    width: 300px;
+    border: 1px solid red;
+}
